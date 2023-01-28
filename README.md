@@ -7,3 +7,4 @@
 
 <h2>Newman Report Summary</h2>
 <li>CLI command with report writing</li>
+<image src="https://github.com/Ibrahim21-github/BookingDetails-using-Postman-Newman/blob/main/Newman%20Summary%20Report.jpeg?raw=true">Nemman Report Summary</image>
